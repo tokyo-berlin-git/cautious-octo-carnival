@@ -1,1 +1,1 @@
-# cautious-octo-carnival
+Our C++ team continues to work to simplify the barriers of entry for cross-platform development, and Codespaces help achieve this goal. We recently added the ability to automatically provision a WSL environment as part of the Windows environment hosting your Codespace. This means that new users onboarding to your repository can immediately build/debug targeting Windows and Linux without having to do any manual configuration. Additionally, as you would expect, you get the benefit of platform-specific IntelliSense.
