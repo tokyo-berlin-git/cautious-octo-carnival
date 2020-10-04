@@ -1,8 +1,5 @@
-
-#Lose Yourself
-
-##Eminem
-
+# Eminem - Lose Yourself
+## Lyrics
 Look
 If you had
 One shot
